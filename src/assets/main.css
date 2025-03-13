@@ -4,41 +4,41 @@
 
 @theme {
   /*main colors*/
-  --color-primary: #0C68F4;
-  --color-secondary: #F45E0C;
+  --color-primary: #0c68f4;
+  --color-secondary: #f45e0c;
   /*tints colors*/
-  --color-tints-primary25: #E4EEFE;
-  --color-tints-primary50: #AECDFB;
-  --color-tints-primary75: #78ABF9;
-  --color-tints-primary100: #428AF6;
-  --color-tints-primary200: #2779F5;
-  --color-tints-primary400: #0951BE;
-  --color-tints-primary500: #063A88;
-  --color-tints-primary600: #052E6D;
+  --color-tints-primary25: #e4eefe;
+  --color-tints-primary50: #aecdfb;
+  --color-tints-primary75: #78abf9;
+  --color-tints-primary100: #428af6;
+  --color-tints-primary200: #2779f5;
+  --color-tints-primary400: #0951be;
+  --color-tints-primary500: #063a88;
+  --color-tints-primary600: #052e6d;
   --color-tints-primary700: #042352;
   --color-tints-primary900: #021736;
-  --color-tints-secondary100: #FDDBC9;
-  --color-tints-secondary200: #FAB793;
-  --color-tints-secondary300: #F68242;
-  --color-tints-secondary400: #F45E0C;
-  --color-tints-secondary500: #F45E0C;
+  --color-tints-secondary100: #fddbc9;
+  --color-tints-secondary200: #fab793;
+  --color-tints-secondary300: #f68242;
+  --color-tints-secondary400: #f45e0c;
+  --color-tints-secondary500: #f45e0c;
   --color-tints-secondary600: #883406;
   /*neutral colors*/
-  --color-neutral-black: #0C0C0C;
-  --color-neutrla-white: #FFFFFF;
+  --color-neutral-black: #0c0c0c;
+  --color-neutrla-white: #ffffff;
   /*gray colors*/
-  --color-gray-1: #F9F9F9;
-  --color-gray-2: #F6F6F6;
-  --color-gray-3: #EDEDED;
-  --color-gray-4: #CBCBCB;
-  --color-gray-5: #9E9E9E;
+  --color-gray-1: #f9f9f9;
+  --color-gray-2: #f6f6f6;
+  --color-gray-3: #ededed;
+  --color-gray-4: #cbcbcb;
+  --color-gray-5: #9e9e9e;
   --color-gray-6: #717171;
   --color-gray-7: #505050;
   --color-gray-8: #444444;
-  --color-gray-9: #2D2D2D;
+  --color-gray-9: #2d2d2d;
   /*status colors*/
-  --color-error: #C91433;
-  --color-error-light: #FAE7EB;
-  --color-succes: #146C43;
-  --color-succes-light: #D1F7E5
+  --color-error: #c91433;
+  --color-error-light: #fae7eb;
+  --color-succes: #146c43;
+  --color-succes-light: #d1f7e5;
 }
