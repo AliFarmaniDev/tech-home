@@ -1,1 +1,44 @@
 @import "tailwindcss";
+
+/*set project theme*/
+
+@theme {
+  /*main colors*/
+  --color-primary: #0C68F4;
+  --color-secondary: #F45E0C;
+  /*tints colors*/
+  --color-tints-primary25: #E4EEFE;
+  --color-tints-primary50: #AECDFB;
+  --color-tints-primary75: #78ABF9;
+  --color-tints-primary100: #428AF6;
+  --color-tints-primary200: #2779F5;
+  --color-tints-primary400: #0951BE;
+  --color-tints-primary500: #063A88;
+  --color-tints-primary600: #052E6D;
+  --color-tints-primary700: #042352;
+  --color-tints-primary900: #021736;
+  --color-tints-secondary100: #FDDBC9;
+  --color-tints-secondary200: #FAB793;
+  --color-tints-secondary300: #F68242;
+  --color-tints-secondary400: #F45E0C;
+  --color-tints-secondary500: #F45E0C;
+  --color-tints-secondary600: #883406;
+  /*neutral colors*/
+  --color-neutral-black: #0C0C0C;
+  --color-neutrla-white: #FFFFFF;
+  /*gray colors*/
+  --color-gray-1: #F9F9F9;
+  --color-gray-2: #F6F6F6;
+  --color-gray-3: #EDEDED;
+  --color-gray-4: #CBCBCB;
+  --color-gray-5: #9E9E9E;
+  --color-gray-6: #717171;
+  --color-gray-7: #505050;
+  --color-gray-8: #444444;
+  --color-gray-9: #2D2D2D;
+  /*status colors*/
+  --color-error: #C91433;
+  --color-error-light: #FAE7EB;
+  --color-succes: #146C43;
+  --color-succes-light: #D1F7E5
+}
